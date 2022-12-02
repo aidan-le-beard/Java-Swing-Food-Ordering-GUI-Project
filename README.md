@@ -13,9 +13,9 @@ Load res/src folders into your Java IDE of choice and execute the gui.java file.
 
 ### Sample output:
 
-![image](https://user-images.githubusercontent.com/33675444/205213670-504f91b5-9313-4b7e-8b80-fdb6b2899555.png)
-
 ![image](https://user-images.githubusercontent.com/33675444/205213675-1d1900ec-e465-4c1e-addb-54c43bc1452f.png)
+
+![image](https://user-images.githubusercontent.com/33675444/205213670-504f91b5-9313-4b7e-8b80-fdb6b2899555.png)
 
 ![image](https://user-images.githubusercontent.com/33675444/205213683-b138aa24-c727-4d92-85b5-cbfe79227f3c.png)
 
